@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "Hello"
 msgstr ""
-
-msgid "Goodbye"
-msgstr ""
