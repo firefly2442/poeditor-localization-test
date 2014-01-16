@@ -11,7 +11,3 @@ msgstr ""
 msgid "Hello"
 msgstr "Bonjour"
 
-#: 
-msgid "Goodbye"
-msgstr ""
-
