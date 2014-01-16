@@ -1,4 +1,4 @@
 poeditor-localization-test
 ==========================
 
-Testing the poeditor Github integration
+Testing the [poeditor](http://poeditor.com) Github integration
